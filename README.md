@@ -14,9 +14,9 @@ Note: If you are coding along with the video, we suggest you open the video in a
 
 
 #### Using this template, you will be able to practice the following:
-- creating arrays
-- built in variables of p5
-- calling functions
+- Creating and updating values within an array.
+- Using built in function: mousePressed() and keyPressed().
+- Calling custom functions.
 
 
 #### Get Started:
